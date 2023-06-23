@@ -1,0 +1,45 @@
+.color{
+    background-color: #4caf50;  
+    width: auto;
+    height: 400%;
+    }
+.color .Weather {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    height: 700px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Weather input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .Weather button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .Weather h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .Weather p {
+    margin: 5px 0;
+  }
+  .color{
+  background-color: #4caf50;  
+  width: auto;
+  height: 400%;
+  }
